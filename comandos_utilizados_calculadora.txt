@@ -1,0 +1,33 @@
+===================================================
+ETAPA 1 - CRIACAO DO ARQUIVO
+===================================================
+# Acessar o diretório do projeto
+ cd EBAC :entra na pasta (EBAC) do projeto
+ ls : lista os arquivos da pasta
+
+#Criar o arquivo da calculadora
+ touch calculadora.sh : cria o arquivo vazio entitulado calculadora.sh
+
+#Abrir o editor nano e inserir o codigo
+ nano calculadora.sh
+
+#Dentro do editor:
+ ctr + o :salva o arquivo
+ enter : confirma o comando
+ ctr + x: sai do editor
+
+==================================================
+ETAPA 2 - PERMISSOES E EXECUCAO
+=================================================
+#Tornar o arquivo executavel
+chmod u+x calculadora.sh
+
+#Definir permissoes
+chmod 744 calculadora.sh
+
+#verificar permissoes
+ls -l calculadora.sh -> saida esperada: -rwxr--r--
+
+#executar o script
+./calculadora.sh :roda o arquivo via bash
+	
