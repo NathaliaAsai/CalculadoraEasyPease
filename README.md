@@ -13,7 +13,8 @@ Enquanto o Python oferece maior clareza, estrutura e facilidade na manipulação
 
 ==============================================================================================
 
-#*EXPLICAÇÃO DO CÓDIGO EM PYTHON*: 
+#*EXPLICAÇÃO DO CÓDIGO EM PYTHON*
+
 O arquivo calculadoraEP.py contém a versão em Python da calculadora. Esse código permite ao usuário realizar operações matemáticas simples de forma interativa.
 Execução: pelo terminal (python calculadoraEP.py)
 
@@ -25,14 +26,16 @@ De forma geral, o código Python foi estruturado para ser simples, legível e di
 
 ==============================================================================================
 
-#*EXPLICAÇÃO DO CÓDIGO EM SH.*: 
+#*EXPLICAÇÃO DO CÓDIGO EM SH.*
 
 Para executar o programa, é necessário conceder permissão de execução ao arquivo de script e (chmod +x calculadoraEP.sh), em seguida, executá-lo diretamente pelo terminal (./calculadoraEP.sh). O comando de permissão serve para permitir que o sistema reconheça o arquivo como um programa executável. 
 
 ==============================================================================================
 
 #*ARQUIVOS*: 
+
 O projeto é composto pelos seguintes arquivos:
+
 #calculadoraEP.py: contém o código em Python da calculadora.
 
 #calculadora.sh: é o script executável em Bash que executa automaticamente o código Python.
