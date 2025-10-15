@@ -1,11 +1,13 @@
 ==============================================================================================
 
-#*INTRODUÇÃO - CalculadoraEasyPease*:
+#*INTRODUÇÃO - CalculadoraEasyPease*
+
 A Calculadora EasyPeasy é um projeto simples que mostra como o mesmo programa pode ser feito em Python e Bash, destacando as diferenças entre as duas linguagens na hora de realizar cálculos básicos.
 
 ==============================================================================================
 
-#*OBJETIVO DO PROJETO*:
+#*OBJETIVO DO PROJETO*
+
 O objetivo do projeto é demonstrar como o mesmo programa pode ser implementado em duas linguagens de script diferentes: Python e Bash. A comparação entre as versões permite observar as diferenças de sintaxe, lógica e execução entre as duas linguagens.
 Enquanto o Python oferece maior clareza, estrutura e facilidade na manipulação de dados, o Bash se destaca pela praticidade e velocidade na execução de scripts diretamente no terminal. O projeto foi desenvolvido com finalidade didática, reforçando o aprendizado sobre automação, lógica de programação e integração entre linguagens
 
@@ -32,6 +34,9 @@ Para executar o programa, é necessário conceder permissão de execução ao ar
 #*ARQUIVOS*: 
 O projeto é composto pelos seguintes arquivos:
 #calculadoraEP.py: contém o código em Python da calculadora.
+
 #calculadora.sh: é o script executável em Bash que executa automaticamente o código Python.
+
 #comandos_utilizados_calculadora.txt: registra os comandos utilizados durante o desenvolvimento do projeto.
+
 #README.md: contém a documentação e explicação do funcionamento do projeto.
